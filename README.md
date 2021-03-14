@@ -1,8 +1,8 @@
 # Hi there 👋 I'm [Yooking](http://yooking.github.io/)
 
 ## Now
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently preparing for the postgraduate entrance exam
+- 🌱 I’m currently learning Cell Biology.
 - ⚡ I'm passionate about swimming, skiing, driving and so on.
 
 ## GitHub statistical reports:  
