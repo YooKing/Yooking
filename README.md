@@ -1,10 +1,11 @@
-## Hi there 👋 I'm [Yooking](http://yooking.github.io/)
+# Hi there 👋 I'm [Yooking](http://yooking.github.io/)
 
+## Now
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - ⚡ I'm passionate about swimming, skiing, driving and so on.
 
-### GitHub statistical reports:
+## GitHub statistical reports:  
 
 <p align="center">
   
