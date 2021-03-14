@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm [Yooking](http://yooking.github.io/)
 
 **Now:**
-<img width="55%" align="right" alt="Github" src="https://s3.ax1x.com/2021/03/14/60vxRs.png" />
+<img align="right" alt="Github" width="20%" height="30%" src="https://s3.ax1x.com/2021/03/14/60vxRs.png" />
 
 - 🔭 I’m currently preparing for the postgraduate entrance exam
 - 🌱 I’m currently learning Cell Biology.
