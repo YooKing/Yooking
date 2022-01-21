@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Cell Biology.
 - ⚡ I'm passionate about swimming, skiing, driving and so on.
 - 💬 Ask me about anything, I am happy to help.
-- 📫 How to reach me: yookingwong@outlook.com.
+- 📫 How to reach me: yooking.id@outlook.com.
 
 **More:**  
 
