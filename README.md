@@ -1,13 +1,10 @@
 ## Hi there 👋 I'm [Yooking](http://yooking.github.io/)
 
 **Now:**
-<img align="right" alt="Github" width="20%" height="30%" src="https://s3.ax1x.com/2021/03/14/60vxRs.png" />
 
-- 🔭 I’m currently preparing for the postgraduate entrance exam
-- 🌱 I’m currently learning Cell Biology.
 - ⚡ I'm passionate about swimming, skiing, driving and so on.
 - 💬 Ask me about anything, I am happy to help.
-- 📫 How to reach me: yooking.id@outlook.com.
+- 📫 How to reach me: xrhqnrsh@duck.com.
 
 **More:**  
 
