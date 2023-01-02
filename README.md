@@ -2,7 +2,7 @@
 
 **Now:**
 
-- ⚡ I'm passionate about swimming, skiing, driving and so on.
+- ⚡ I'm passionate about swimming, skiing, and so on.
 - 💬 Ask me about anything, I am happy to help.
 - 📫 How to reach me: xrhqnrsh@duck.com.
 
